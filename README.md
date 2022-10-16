@@ -41,7 +41,9 @@ I'm a person fascinated by the infinite human potential, who seeks to surrender 
 
 ### 📊 Stats
 
-![Serbrylex's GitHub stats](https://github-readme-stats.vercel.app/api?username=serbrylex&show_icons=true&theme=gruvbox)
+![Serbrylex's GitHub stats](https://github-readme-stats.vercel.app/api?username=serbrylex&show_icons=true&theme=dracula)
+
+![Serbrylex's Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serbrylex&layout=compact&theme=dracula)
 
 #
 
